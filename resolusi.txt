@@ -1,2 +1,3 @@
 -study front-end 
+-study ui/ux
 mantap
